@@ -50,9 +50,4 @@ Rupesh Samanta
 
 Diploma in Information Technology Student
 
-- GitHub: "rupeshdev07" (https://github.com/rupeshdev07)
-- LinkedIn: "Rupesh Samanta" (https://www.linkedin.com/in/rupesh-samanta-2548b2420/)
-
----
-
  If you find this project useful, feel free to explore the repository!
